@@ -8,6 +8,7 @@ Json file parsing using NASA's APIs
 ## Requirement
 - python 3 
 - Your own api key from NASA's website
+- Understanding the queried JSON structure Main Json Obj vs Array of objects (dictionary)
 
 ## Approach 
 - When you GET data by sending a HTTP request (request moduel) from python, the data can be cut off on your terminal. I normaly use this site if the api link is provided [JSON Formatter](https://jsonformatter.org/json-pretty-print).
