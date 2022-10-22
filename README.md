@@ -8,5 +8,8 @@ Json file parsing using NASA's APIs
 # Requirement
 - python 3 
 
+# Approach 
+- When you GET data by sending a HTTP request on python, the data can be cut off on your terminal. I normaly use this site if the api link is provided [JSON Formatter](https://pages.github.com/](https://jsonformatter.org/json-pretty-print).
+
 #### Reference: 
 - https://api.nasa.gov/
